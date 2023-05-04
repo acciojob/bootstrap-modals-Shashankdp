@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+.main-container{
+	position: relative;
+}
+
+.accio-modal{
+	position:absolute;
+	
+}
